@@ -54,6 +54,7 @@
 
 ### 📊 **GitHub Stats(Private Repositories are Not Included)**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=SaadiaEl08&theme=radical) 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaadiaEl08&show_icons=true&include_all_commits=true&theme=radical)
 
 - **Pinned Projects Section** (to add later when they are done).  
